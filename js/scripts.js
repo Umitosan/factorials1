@@ -11,7 +11,7 @@ $(document).ready(function() {
 
     // check for starting value too high
     if (userInput > 200) {
-      alert("My CPU can't handle that size");
+      alert("Are you trying to kill me????!!!!!");
       userInput = "-";
       total = "-";
     }
